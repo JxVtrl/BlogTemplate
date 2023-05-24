@@ -4,11 +4,11 @@ import * as S from "./styles"
 import MainPost from "../MainPost"
 import Post from "../Post"
 
-import PostImage1 from "../../assets/imgs/posts/Image-1.png"
-import PostImage2 from "../../assets/imgs/posts/Image-2.png"
-import PostImage3 from "../../assets/imgs/posts/Image-3.png"
-import PostImage4 from "../../assets/imgs/posts/Image-4.png"
-import PostImage5 from "../../assets/imgs/posts/Image-5.png"
+import PostImage1 from "../../assets/imgs/posts/Image1.png"
+import PostImage2 from "../../assets/imgs/posts/Image2.png"
+import PostImage3 from "../../assets/imgs/posts/Image3.png"
+import PostImage4 from "../../assets/imgs/posts/Image4.png"
+import PostImage5 from "../../assets/imgs/posts/Image5.png"
 import PostImage6 from "../../assets/imgs/posts/Image.png"
 
 const AppBlogGrid: React.FC = () => {
